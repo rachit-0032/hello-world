@@ -1,3 +1,5 @@
 This is a file where my project details could come in. However, currently, since this a tester repository for learning Git, I am not really bothering about adding anything new here for the time being.
 
 See you soon!
+
+Regards!
